@@ -8,7 +8,6 @@ export default function Dome() {
       <Header />
       <Main />
       <Home />
-
       <CourseName />
     </>
   );
